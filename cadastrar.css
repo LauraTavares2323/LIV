@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#header1{
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+    padding: 10px;
+
+}
+
+main{
+    background-color:rgb(230, 230, 230);
+}
+
+.logo-header{
+    height: 10vh;
+}
+
+h1{
+    font-size: x-large;
+    margin: 15px;
+}
+
+
+.inp{
+
+    width: 20vw;
+    height: 5vh;
+
+}
+
+.inp2{
+
+width: 10vw;
+
+}
+
+
+
+#sec1{
+
+border: solid black 1px;
+margin-top: 50px;
+margin-bottom: 50px;
+border-radius: 30px;
+margin-left: 40px;
+margin-right:40px;
+padding: 70px;
+}
+
+.nome{
+
+
+    letter-spacing: 2px;
+    margin-top: 20px;
+    width: 30vw;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: x-large;
+}
+
+
+.publicar{
+    display: flex   ;
+    color: white;
+}
+
+.menu{
+    margin-top:25px;
+    color: white;
+}
+
+#lapis{
+    height: 6vh;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.header2{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    height: 10vh;
+    padding: 10px;
+}
